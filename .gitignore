@@ -102,3 +102,9 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+.vscode/settings.json
+bazel-bazel-py-setup
+bazel-bin
+bazel-genfiles
+bazel-out
+bazel-testlogs
