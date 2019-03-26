@@ -1,0 +1,1 @@
+This directory contains Python files and Bazel files: The primary unit of code organization in a workspace is the package. A package is a collection of related files and a specification of the dependencies among them.
